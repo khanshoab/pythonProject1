@@ -80,5 +80,6 @@ def sss(b):
     print(f"Formatted output {a-b:5.10f}")
     print(f"Formatted output {a*b:5.2f}")
 
+
 # Calling a function with Argument
 sss(20.444)
