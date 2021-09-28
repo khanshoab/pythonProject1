@@ -5,7 +5,7 @@
 
 
 # C -style string formatting
-# This operator is used to fomatting the string . It interpretes the left argument much like a sprint() style format
+# This operator is used to formatting the string . It interprets the left argument much like a sprint() style format
 # string  to be applied to the right argument , and returns the string resulting from this formatting operation.
 # syntax ("formatted placeholder"%(data))
 
